@@ -1,0 +1,38 @@
+
+h1{
+    font-size: 30px;
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: 300;
+    text-align: center;
+    margin-bottom: 15px;
+  }
+a{
+    color: #29acbd;
+ }
+  
+
+  body{
+    background: -webkit-linear-gradient(left, #25c481, #25b7c4);
+    background: linear-gradient(to right, #25c481, #25b7c4);
+    font-family: 'Roboto', sans-serif;
+  }
+  section{
+    margin: 50px;
+  }
+
+  .form-label{
+    color: #fff;
+  }
+
+form{
+  margin-left: 300px;
+  margin-right: 300px;
+}
+
+.center{
+  margin: 0;
+  position: absolute;
+  left: 50%;
+}
+
